@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=bounds
+comment0.target=ClosedBox(java.awt.Rectangle)
+comment1.params=x\ y\ width\ height
+comment1.target=ClosedBox(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ update()
+numComments=3

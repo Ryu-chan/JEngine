@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=comp
+comment0.target=void\ hideCursor(javax.swing.JComponent)
+comment1.params=comp
+comment1.target=void\ setDefaultCursor(javax.swing.JComponent)
+comment2.params=comp\ bim
+comment2.target=void\ setImageCursor(javax.swing.JComponent,\ java.awt.image.BufferedImage)
+comment3.params=comp
+comment3.target=void\ hideCursor(java.awt.Component)
+comment4.params=comp
+comment4.target=void\ setDefaultCursor(java.awt.Component)
+comment5.params=comp\ bim
+comment5.target=void\ setImageCursor(java.awt.Component,\ java.awt.image.BufferedImage)
+numComments=6

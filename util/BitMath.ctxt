@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=int\ nearestPowerOf2(int)
+comment0.text=\n\ Calculates\ the\ nearset\ upper\ bounded\ power\ of\ two\ for\ the\ specified\ integer.\n\ @param\ i\ integer\ to\ round.\n\ @return\ the\ closest\ upper\ bounding\ power\ of\ two.\n
+comment1.params=i
+comment1.target=int\ leadingZeros(int)
+comment1.text=\n\ Divide\ and\ conquer\ -\ find\ number\ of\ leading\ zeros.\n\ @param\ i\ integer\ to\ get\ number\ of\ leading\ zeros\ for.\n\ @return\ the\ number\ of\ leading\ zeros\ in\ the\ integer.\n
+comment2.params=a\ b
+comment2.target=boolean\ oppositeSigns(int,\ int)
+comment2.text=\n\ Returns\ if\ the\ two\ passed\ integers\ have\ opposite\ signs.\n\ @param\ a\ first\ integer.\n\ @param\ b\ second\ integer.\n\ @return\ true\ iff\ a\ and\ b\ have\ opposite\ signs.\n
+comment3.params=i
+comment3.target=boolean\ isPowerOf2(int)
+comment3.text=\n\ Calculates\ if\ the\ integer\ is\ a\ power\ of\ 2.\n\ @param\ i\ integer\ to\ calculate.\n\ @return\ true\ iff\ i\ is\ a\ power\ of\ 2.\n
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=bounds
+comment0.target=Box(java.awt.Rectangle)
+comment0.text=\n\ First\ constructor\ takes\ a\ rectangle\ as\ the\ bounds.\n\ @param\ bounds\ rectangle\ representing\ the\ bounds\ of\ the\ box.\n
+comment1.params=x\ y\ width\ height
+comment1.target=Box(int,\ int,\ int,\ int)
+comment1.text=\n\ Second\ constructor\ takes\ the\ parts\ to\ form\ the\ box.\n\ @param\ x\ position\ of\ the\ box.\n\ @param\ y\ position\ of\ the\ box.\n\ @param\ width\ dimension\ of\ the\ box.\n\ @param\ height\ dimension\ of\ the\ box.\n
+comment2.params=bounds
+comment2.target=void\ redefineBounds(java.awt.Rectangle)
+comment2.text=\n\ Redefines\ the\ bounds\ of\ the\ box.\n\ @param\ bounds\ rectangle\ representing\ the\ bounds\ of\ the\ box.\n
+comment3.params=x\ y\ width\ height
+comment3.target=void\ redefineBounds(int,\ int,\ int,\ int)
+comment3.text=\n\ Redefines\ the\ bounds\ of\ the\ box.\n\ @param\ x\ position\ of\ the\ box.\n\ @param\ y\ position\ of\ the\ box.\n\ @param\ width\ dimention\ of\ the\ box.\n\ @param\ height\ dimension\ of\ the\ box.\n
+comment4.params=
+comment4.target=void\ update()
+comment4.text=\n\ Updates\ the\ particles'\ positions\ within\ the\ box.\n
+numComments=5

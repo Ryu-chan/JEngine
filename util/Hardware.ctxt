@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.awt.GraphicsEnvironment\ getGraphicsEnvironment()
+comment1.params=
+comment1.target=java.awt.GraphicsDevice\ getGraphicsDevice()
+comment2.params=
+comment2.target=java.awt.GraphicsConfiguration\ getGraphicsConfiguration()
+numComments=3

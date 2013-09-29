@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=bim
+comment0.target=RotatableSprite(java.awt.image.BufferedImage)
+comment0.text=\n\ First\ constructor\ takes\ a\ sprite\ and\ sets\ the\ rotation\ to\ 0\ degress.\n\ @param\ bim\ sprite\ to\ hold.\n
+comment1.params=bim\ rot
+comment1.target=RotatableSprite(java.awt.image.BufferedImage,\ float)
+comment1.text=\n\ Second\ constructor\ takes\ a\ sprite\ and\ initial\ rotation\ in\ degress.\n\ @param\ bim\ sprite\ to\ hold.\n\ @param\ rot\ initial\ rotation\ of\ this\ sprite.\n
+comment2.params=
+comment2.target=void\ update()
+comment3.params=g
+comment3.target=void\ render(java.awt.Graphics2D)
+numComments=4

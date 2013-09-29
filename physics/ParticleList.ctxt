@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ParticleList()
+comment0.text=\n\ Default\ constructor\ creates\ a\ list\ with\ an\ initial\ capacity\ of\ 32.\n
+comment1.params=initialCapacity
+comment1.target=ParticleList(int)
+comment1.text=\n\ Second\ constructor\ creates\ a\ list\ with\ the\ specified\ initial\ capacity.\n\ @param\ initialCapacity\ specifies\ size\ of\ original\ array.\n
+numComments=2

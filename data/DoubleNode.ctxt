@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=_data
+comment0.target=DoubleNode(java.lang.Object)
+comment0.text=\n\ Constructs\ an\ object\ with\ the\ specified\ data\ and\ no\ next\ or\ previous\ node.\n\ @param\ _data\ data\ that\ the\ node\ should\ hold.\n
+comment1.params=_data\ _next
+comment1.target=DoubleNode(java.lang.Object,\ DoubleNode)
+comment1.text=\n\ Constructs\ an\ object\ with\ the\ specified\ data\ and\ next\ node\ and\ no\ previous\ node.\n\ @param\ _data\ data\ that\ the\ node\ should\ hold.\n\ @param\ _next\ node\ that\ this\ node\ should\ hold.\n
+comment2.params=_data\ _next\ _prev
+comment2.target=DoubleNode(java.lang.Object,\ DoubleNode,\ DoubleNode)
+comment2.text=\n\ Constructs\ an\ object\ with\ the\ specified\ data,\ next\ node,\ and\ previous\ node.\n\ @param\ _data\ data\ that\ the\ node\ should\ hold.\n\ @param\ _next\ node\ that\ this\ node\ should\ hold.\n\ @param\ _prev\ node\ that\ this\ node\ should\ hold.\n
+numComments=3

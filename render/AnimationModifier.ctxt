@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=bim\ c
+comment0.target=java.awt.image.BufferedImage\ modify(java.awt.image.BufferedImage,\ float)
+comment0.text=\n\ The\ modify\ method\ should\ take\ a\ buffered\ image\ and\ a\ percent\ completion\ and\ return\ \n\ the\ image\ modified\ by\ that\ amount\ of\ completion.\ Input\ to\ this\ method\ from\ the\ \n\ {@code\ Animator}\ class\ will\ be\ a\ float\ value\ between\ 0\ and\ 1.\n\ @param\ bim\ buffered\ image\ to\ modify.\n\ @param\ c\ completeness\ of\ the\ modification.\n\ @return\ the\ modified\ image\ with\ the\ specified\ completion.\n
+numComments=1

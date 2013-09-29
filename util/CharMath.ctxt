@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=int\ parseInt(java.lang.String)
+comment0.text=\n\ Convert\ the\ passed\ string\ into\ an\ integer\ via\ character\ arithmetic.\n\ @param\ str\ string\ to\ be\ converted.\n\ @param\ integer\ value\ represented\ by\ the\ passed\ string.\n
+numComments=1

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=bim\ c
+comment0.target=java.awt.image.BufferedImage\ modify(java.awt.image.BufferedImage,\ float)
+comment0.text=\n\ The\ modifier\ for\ fading\ in.\n\ @param\ bim\ image\ to\ modify.\n\ @param\ c\ completeness\ of\ the\ animation.\n\ @return\ the\ modified\ image.\n
+numComments=1

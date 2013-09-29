@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=file
+comment0.target=boolean\ loadImage(java.lang.String)
+comment0.text=\n\ Loads\ the\ specified\ file\ into\ images\ library\ with\ the\ key\ as\ the\ file\ prefix.\n\ @param\ file\ name\ of\ the\ image\ file\ to\ load.\n\ @return\ if\ the\ image\ was\ succesfully\ loaded.\n
+comment1.params=name\ file
+comment1.target=boolean\ loadImage(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Loads\ the\ specified\ file\ into\ images\ library\ with\ the\ specified\ key.\n\ @param\ name\ key\ value\ to\ store\ the\ image\ under.\n\ @param\ file\ name\ of\ the\ image\ file\ to\ load.\n\ @return\ if\ the\ image\ was\ successfully\ loaded.\n
+comment2.params=path
+comment2.target=void\ changeImagePath(java.lang.String)
+comment2.text=\n\ Changes\ the\ path\ to\ the\ images\ folder.\n\ @param\ path\ where\ the\ images\ folder\ is\ located.\n
+numComments=3

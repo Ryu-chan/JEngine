@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.HashMap\ getLib()
+comment0.text=\n\ Gets\ the\ whole\ library.\n\ @return\ the\ library\ reference\ as\ a\ hash\ map.\n
+comment1.params=key
+comment1.target=java.awt.image.BufferedImage\ getImage(java.lang.String)
+comment1.text=\n\ Gets\ the\ image\ from\ the\ corresponding\ key\ value.\n\ @param\ key\ how\ to\ search\ for\ the\ image.\n\ @return\ the\ buffered\ image\ represented\ by\ the\ specified\ key.\n
+comment2.params=key\ img
+comment2.target=void\ add(java.lang.String,\ java.awt.image.BufferedImage)
+comment2.text=\n\ Adds\ the\ passed\ image\ to\ hte\ library\ with\ the\ passed\ key.\n\ @param\ key\ how\ to\ later\ refer\ to\ this\ image\ from\ the\ library.\n\ @param\ img\ the\ image\ to\ store\ under\ the\ passed\ key.\n
+comment3.params=key
+comment3.target=java.awt.image.BufferedImage\ remove(java.lang.String)
+comment3.text=\n\ Removes\ the\ image\ corresponding\ to\ the\ passed\ key.\n\ @param\ key\ how\ to\ find\ the\ image\ in\ the\ library.\n\ @return\ the\ removed\ image.\n
+numComments=4

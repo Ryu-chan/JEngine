@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Particle()
+comment1.params=x\ y
+comment1.target=Particle(double,\ double)
+comment2.params=
+comment2.target=Coordinate\ getPosition()
+comment3.params=
+comment3.target=Coordinate\ getVelocity()
+comment4.params=
+comment4.target=Coordinate\ getAcceleration()
+comment5.params=
+comment5.target=Coordinate\ getSize()
+comment6.params=
+comment6.target=java.awt.Rectangle\ getRect()
+numComments=7

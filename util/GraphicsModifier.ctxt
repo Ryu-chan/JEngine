@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ antialias(java.awt.Graphics2D)
+comment0.text=\n\ Sets\ the\ graphics\ member\ to\ antialias.\n\ @param\ g\ graphics\ member\ to\ work\ with.\n
+comment1.params=g
+comment1.target=void\ interpolate(java.awt.Graphics2D)
+comment1.text=\n\ Sets\ the\ graphics\ member\ to\ interpolate.\n\ @param\ g\ graphics\ member\ to\ work\ with.\n
+numComments=2

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DoubleDataMember()
+comment0.text=\n\ Default\ constructor\ sets\ things\ to\ null.\n
+comment1.params=_a\ _b
+comment1.target=DoubleDataMember(java.lang.Object,\ java.lang.Object)
+comment1.text=\n\ Second\ constructor\ takes\ things\ to\ set\ the\ things\ to.\n\ @param\ _a\ thing\ a.\n\ @param\ _b\ thing\ b.\n
+comment2.params=
+comment2.target=java.lang.Object\ getA()
+comment2.text=\n\ Get\ the\ value\ of\ a.\n\ @return\ ...\n
+comment3.params=
+comment3.target=java.lang.Object\ getB()
+comment3.text=\n\ Get\ the\ value\ of\ b.\n\ @return\ ...\n
+comment4.params=_a
+comment4.target=void\ setA(java.lang.Object)
+comment4.text=\n\ Set\ the\ value\ of\ a.\n\ @param\ _a\ a\n
+comment5.params=_b
+comment5.target=void\ setB(java.lang.Object)
+comment5.text=\n\ Set\ the\ value\ of\ b.\n\ @param\ _b\ b\n
+numComments=6

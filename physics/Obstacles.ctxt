@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Obstacles()
+comment0.text=\n\ Default\ constructor\ creates\ empty\ box.\n
+comment1.params=initialCapacity
+comment1.target=Obstacles(int)
+comment1.text=\n\ Secondary\ constructor\ puts\ particles\ into\ the\ box.\n\ @param\ initalCapacity\ capacity\ of\ the\ initial\ list.\n
+comment2.params=part
+comment2.target=Particle\ checkSquareSquare(Particle)
+comment2.text=\n\ Checks\ the\ specified\ particle\ with\ square\ approximation\ to\ the\ list.\n\ @param\ part\ which\ particle\ to\ check\ against\ the\ list.\n\ @return\ the\ item\ intersected\ or\ null.\n
+comment3.params=part
+comment3.target=Particle\ checkCircleCircle(Particle)
+comment3.text=\n\ Checks\ the\ specified\ particle\ with\ circular\ approximation\ to\ the\ list.\n\ @param\ part\ which\ particle\ to\ check\ against\ the\ list.\n\ @return\ the\ item\ intersected\ or\ null.\n
+numComments=4

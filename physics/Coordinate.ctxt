@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Coordinate()
+comment1.params=a\ b
+comment1.target=Coordinate(java.lang.Double,\ java.lang.Double)
+comment2.params=
+comment2.target=double\ getX()
+comment3.params=
+comment3.target=double\ getY()
+comment4.params=x
+comment4.target=void\ setX(double)
+comment5.params=y
+comment5.target=void\ setY(double)
+comment6.params=x\ y
+comment6.target=void\ setPosition(double,\ double)
+numComments=7

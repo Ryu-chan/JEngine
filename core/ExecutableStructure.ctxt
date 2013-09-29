@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ execute()
+comment0.text=\n\ Execute\ one\ executable.\n
+comment1.params=
+comment1.target=void\ executeAll()
+comment1.text=\n\ Execute\ all\ executables\ in\ the\ structure.\n
+numComments=2

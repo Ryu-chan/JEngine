@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=spriteSheet\ xsize\ ysize
+comment0.target=SpriteSheet(java.awt.image.BufferedImage,\ int,\ int)
+comment1.params=
+comment1.target=void\ step()
+comment2.params=x\ y
+comment2.target=void\ setFrame(int,\ int)
+comment3.params=
+comment3.target=java.awt.image.BufferedImage\ getCurrentImage()
+comment4.params=
+comment4.target=boolean\ isDone()
+numComments=5
